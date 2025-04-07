@@ -55,12 +55,12 @@ ambos, use "FizzBuzz".
 
 #### Clone o Repositório
 ```
-git clone https://github.com/academiadoprogramador-fullstack/lista-de-exercicios-2025.git
+git clone https://github.com/Dani-linus/ListadeExercicios-2025.git
 ```
 
 #### Navegue até a pasta raiz da solução
 ```
-cd lista-de-exercicios-2025
+cd ListadeExercicios
 ```
 
 #### Restaure as dependências
@@ -70,7 +70,7 @@ dotnet restore
 
 #### Navegue até a pasta do projeto
 ```
-cd ListaDeExercicios.ConsoleApp
+cd ListadeExercicio.ConsoleApp
 ```
 
 #### Execute o projeto
