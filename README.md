@@ -1,8 +1,8 @@
-﻿#Lista de Exercícios 2025
+﻿# Lista de Exercícios 2025
 
-#Implementação Completa da Lista de Exercícios de Lógica de Programação incluindo estruturas de decisão e repetição.
+# Implementação Completa da Lista de Exercícios de Lógica de Programação incluindo estruturas de decisão e repetição.
 
-#Exercicios
+# Exercicios
 
 1. Crie um programa para calcular o volume de uma caixa retangular
 2. Crie um programa para calcular o volume de um Cilindro
